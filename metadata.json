@@ -1,0 +1,8 @@
+{
+  "name": "Advantage · Academia de Idiomas",
+  "description": "Plataforma educativa de la academia de idiomas Advantage en Gandía. Clases en vivo de inglés, alemán, francés y programa Advantage Kids con profesores nativos TEFL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
